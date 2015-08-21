@@ -1,0 +1,12 @@
+#box {
+	
+	 background-color:#eeeeee;
+	 height:200px;
+	 width:300px;
+	 padding:5px;
+	 margin-left: 485px;
+	 margin-top: 10px;
+	 text-align: "center";
+	 overflow: auto;
+
+}
